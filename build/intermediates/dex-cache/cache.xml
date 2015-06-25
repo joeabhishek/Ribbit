@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Mojo/Code/Ribbit2/app/libs/Parse-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="077b21d82e098a5d95e46b1868c664a23ada163a">
+        <dex dex="/Users/Mojo/Code/Ribbit2/app/build/intermediates/pre-dexed/debug/Parse-1.3.9-63ffffc87fd53c979b3f790b6a4bb6406a9f54b6.jar" />
+    </item>
+    <item
+        jar="/Users/Mojo/Ribbit2/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/Mojo/Ribbit2/app/build/intermediates/pre-dexed/debug/commons-io-2.4-fe73c3553964450ba2e3b7d36732cb9ff505623b.jar" />
+    </item>
+    <item
+        jar="/Users/Mojo/Ribbit2/app/libs/Parse-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="077b21d82e098a5d95e46b1868c664a23ada163a">
+        <dex dex="/Users/Mojo/Ribbit2/app/build/intermediates/pre-dexed/debug/Parse-1.3.9-5ceaec7b868691a491f6b90735457eb15c7fd584.jar" />
+    </item>
+    <item
+        jar="/Users/Mojo/Code/Ribbit2/app/libs/picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex dex="/Users/Mojo/Code/Ribbit2/app/build/intermediates/pre-dexed/debug/picasso-2.1.1-df1673d2fa97312ebc098f5ae0faf74f26242644.jar" />
+    </item>
+    <item
+        jar="/Users/Mojo/Ribbit2/app/libs/picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex dex="/Users/Mojo/Ribbit2/app/build/intermediates/pre-dexed/debug/picasso-2.1.1-273d4b147ee0da3b7ef298b3703f27af494d157c.jar" />
+    </item>
+    <item
+        jar="/Users/Mojo/Code/Ribbit2/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/Mojo/Code/Ribbit2/app/build/intermediates/pre-dexed/debug/commons-io-2.4-220deec0b5432336360576c6dc7bb65393bdecd3.jar" />
+    </item>
+    <item
+        jar="/Users/Mojo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/Mojo/Ribbit2/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-b8f0572a7e7e5e31b2f81dd1ad2dd5b3b2f75f53.jar" />
+    </item>
+
+</items>
